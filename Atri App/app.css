@@ -1,0 +1,384 @@
+header{
+    background-color: white;
+}
+
+.navbar{
+    padding-left: 100px;
+    margin-top: 10px;
+
+
+}
+.nav-link{
+    color:#696969;
+     font-weight: 500;
+     font-size: 18px;
+     
+}
+.button1{
+   
+    background-color: white;color: black; 
+    padding-top: 6px;
+    padding-left: 23px;
+    padding-right:23px;
+    padding-bottom: 6px;
+    font-size: 15px;
+     border-radius: 50px;
+     outline: none;
+     font-weight: 500;
+     text-align: center;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #cccc;
+     cursor: pointer;
+}
+.button2{
+    background-color:#FF7629;color:white; 
+    padding-top: 6px;
+    padding-left: 23px;
+    padding-right:23px;
+    padding-bottom: 6px;
+    font-size: 15px;
+     border-radius: 50px;
+     outline: none;
+     font-weight: 500;
+     text-align: center;
+     border-width: 1px;
+     border-style: solid;
+     border-color: #cccc;
+     cursor: pointer;
+     ;
+
+}
+
+.form-inline
+{
+    display: flex;
+    column-gap: 30px;
+    
+}
+.home-left{
+
+    padding-left: 100px;
+    margin-left: 50px;
+    width: 90%;
+}
+.home-flex2{
+    display: flex;
+    font-size: 80px;
+    flex-direction: column;
+    padding-left: 20px;
+}
+.home-text1{
+    padding-top:100px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.home-text2
+{
+    color: #FF7629;
+    font-weight: 600;
+    font-size: 50px;
+    
+}
+
+
+.text-box{
+    font-size: 18px;
+    color: #757575;
+    
+    
+    font-weight: 500;
+    padding-top: 10px;
+}
+.home-flex-btn{
+    padding-left: 5px;
+    padding-top: 20px;
+}
+    
+.home-flex3{
+    display: flex;
+    background-color: #FF7629;
+    float: right;
+    width:500px;
+    height: 490px;
+    margin-top: 30px;
+    margin-left: 900px;
+}
+.image{
+
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width:400px;
+    height: 450px;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    position: relative;
+    right: 100px;
+    
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 30px;
+    
+}
+.orderimage1{
+    padding-left: 250px;
+    margin-top: 20px;
+    size: 100px;
+}
+.orderimage{
+    padding-left: 60px;
+    margin-top: 20px;
+   max-width: 100%;
+}
+.cards{
+   width:100%;
+    margin-left: 180px;
+   
+}
+.card{
+    float:left;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border-color: #dbd3d3;
+    border-width: 3px;
+    width:230px;
+    height:380px;
+
+}
+.card-img-top{
+    width:100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 60PX;
+    
+}
+h5{
+    
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 5px;
+
+}
+.card-text{
+    font-size: 17px;
+    text-align: left;
+    margin-top: 5px;
+    color: #8d8888; 
+
+}
+.btn{
+    margin-left: 30px;
+}
+.btn2{
+
+    margin-left:500px ;
+    margin-top: 50px;
+    
+}
+.left{
+    padding-top: 150px;
+}
+.right{
+    padding-top: 150px;
+}
+.text1{
+    width: 700px;
+    height: 700px;
+    background-color: #FF7629;
+    color: white;
+    padding-top: 200px;
+    padding-left: 190px;
+    padding-right: 180px;
+    float:left;
+}
+
+h3{
+    font-size: 18px;
+    padding-top: 30px;
+
+}
+.src{
+    width: 700px;
+    height: 700px;
+
+}
+
+.book-table{
+    padding-left: 150px;
+    padding-top: 200px;
+}
+h4{
+    font-size: 17px; 
+    color: #8d8888; 
+    padding-top: 30px;
+    width:80%;
+
+}
+.book-table-text1{
+    padding-left: 100px;
+    padding-top: 150px;
+}
+
+.book-table-text2{
+    padding-top: 30px;
+    color: #8d8888; 
+    padding-left: 100px;
+    font-weight: 500;
+    width:300px
+    
+}
+
+
+.table-right{
+    display: flex;
+    background-color: #fa813bce;
+    float: left;
+    width:700px;
+    height: 770px;
+    
+
+}
+.info{
+    width: 550px;
+    height: 600px;
+    background-color: white;
+    border-radius: 30px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    position: relative;
+    right: 100px;
+    border-style: solid;
+    border-color: #dbd3d3;
+    
+    
+}
+.input{
+    padding-top: 100px;
+    border-radius: 30px;
+     cursor: pointer;
+}
+.type{
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-top:5px;
+    text-align: center;
+    padding-bottom: 5px;
+    border-color: #dbd3d3;
+    outline: none;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+.input-head{
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.input-details1{
+    padding-left: 60px;
+}
+.input-details2{
+    float: right;
+    padding-right: 40px;
+    margin-bottom: 50px;
+}
+.input2{
+    margin-bottom: 30px;
+}
+.date{
+    border-radius: 25px;
+    text-align: center;
+    border-width: 1px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-color: #dbd3d3;
+    
+}
+.time
+{
+    border-color: #dbd3d3;
+    box-sizing: border-box;
+    border-radius: 25px;
+    text-align: center;
+    border-width: 1px;
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.input-details3{
+    padding-left: 90px;
+}
+.input-details4{
+    padding-left: 50px;
+    
+}
+
+.input-head1{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.button5{
+   margin-top: 50px;
+   margin-left: 220px;
+   border-radius: 20px;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color: #FF7629;
+   color: white;
+   cursor: pointer;
+   border-color: #dbd3d3;
+    
+}
+
+.about{
+    
+    margin-top: 150px;
+   
+}
+.image7{
+    width:500px;
+    height:500px;
+    border-radius: 25px;
+  
+    margin-top: 100px;
+}
+.visit{
+    background-color:#FF7629;
+    width: 450px;
+    height:300px;
+    padding-top: 50px;
+    padding-left: 80px;
+    margin-left: 300px;
+    text-align: left;
+    border-radius: 30px;
+    position: relative;
+    bottom: 250px;
+}
+.visit-head{
+    font-size: 25px;
+    font-style: bold;
+    font-weight: 500;
+
+}
+.visit-head2{
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: left;
+    color:white;
+    font-weight: 500;
+    
+
+}
